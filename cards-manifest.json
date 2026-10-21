@@ -1,0 +1,434 @@
+[
+  {
+    "id": "extra_stardust_uncommon",
+    "name": "Sternenstaub-Mochi",
+    "rarity": "UNCOMMON",
+    "price": 450,
+    "emoji": "⭐",
+    "description": "Ein kleines Stück Sternenhimmel mit funkelnder Magie.",
+    "image_file": "extra_stardust_uncommon.webp"
+  },
+  {
+    "id": "extra_banana_super_rare",
+    "name": "Bananen-Mochi",
+    "rarity": "SUPER RARE",
+    "price": 1500,
+    "emoji": "🍌",
+    "description": "Fruchtig, sonnig und goldgelb.",
+    "image_file": "extra_banana_super_rare.webp"
+  },
+  {
+    "id": "extra_cloud_ultra_rare",
+    "name": "Wolken-Mochi",
+    "rarity": "ULTRA RARE",
+    "price": 2500,
+    "emoji": "☁️",
+    "description": "Flauschige Wolkenoptik und ein ruhiger, verträumter Vibe.",
+    "image_file": "extra_cloud_ultra_rare.webp"
+  },
+  {
+    "id": "extra_cloud_common",
+    "name": "Wolken-Mochi",
+    "rarity": "COMMON",
+    "price": 250,
+    "emoji": "☁️",
+    "description": "Flauschige Wolkenoptik und ein ruhiger, verträumter Vibe.",
+    "image_file": "extra_cloud_common.webp"
+  },
+  {
+    "id": "extra_ube_rare",
+    "name": "Ube-Mochi",
+    "rarity": "RARE",
+    "price": 850,
+    "emoji": "🍠",
+    "description": "Cremig, violett und märchenhaft.",
+    "image_file": "extra_ube_rare.webp"
+  },
+  {
+    "id": "extra_sakura_rare",
+    "name": "Sakura-Mochi",
+    "rarity": "RARE",
+    "price": 850,
+    "emoji": "🌸",
+    "description": "Kirschblüten, zarte Farben und Frühlingsstimmung.",
+    "image_file": "extra_sakura_rare.webp"
+  },
+  {
+    "id": "extra_rainbow_ultra_rare",
+    "name": "Regenbogen-Mochi",
+    "rarity": "ULTRA RARE",
+    "price": 2500,
+    "emoji": "🌈",
+    "description": "Bunte Farben, Glitzer und Regenbogenmagie.",
+    "image_file": "extra_rainbow_ultra_rare.webp"
+  },
+  {
+    "id": "extra_banana_ultra_rare_v1",
+    "name": "Bananen-Mochi · Motiv 1",
+    "rarity": "ULTRA RARE",
+    "price": 2500,
+    "emoji": "🍌",
+    "description": "Fruchtig, sonnig und goldgelb.",
+    "image_file": "extra_banana_ultra_rare_v1.webp"
+  },
+  {
+    "id": "extra_peach_common",
+    "name": "Pfirsich-Mochi",
+    "rarity": "COMMON",
+    "price": 250,
+    "emoji": "🍑",
+    "description": "Zartrosa, süß und blumig.",
+    "image_file": "extra_peach_common.webp"
+  },
+  {
+    "id": "extra_yuzu_common",
+    "name": "Yuzu-Mochi",
+    "rarity": "COMMON",
+    "price": 250,
+    "emoji": "🍋",
+    "description": "Frisch, zitronig und sonnig.",
+    "image_file": "extra_yuzu_common.webp"
+  },
+  {
+    "id": "extra_peach_rare_v1",
+    "name": "Pfirsich-Mochi · Motiv 1",
+    "rarity": "RARE",
+    "price": 850,
+    "emoji": "🍑",
+    "description": "Zartrosa, süß und blumig.",
+    "image_file": "extra_peach_rare_v1.webp"
+  },
+  {
+    "id": "extra_pistachio_ultra_rare",
+    "name": "Pistazien-Mochi",
+    "rarity": "ULTRA RARE",
+    "price": 2500,
+    "emoji": "🥜",
+    "description": "Nussig, mild und cremig.",
+    "image_file": "extra_pistachio_ultra_rare.webp"
+  },
+  {
+    "id": "extra_blueberry_uncommon",
+    "name": "Blaubeer-Mochi",
+    "rarity": "UNCOMMON",
+    "price": 450,
+    "emoji": "🫐",
+    "description": "Beerig, blau und kuschelig.",
+    "image_file": "extra_blueberry_uncommon.webp"
+  },
+  {
+    "id": "extra_banana_ultra_rare_v2",
+    "name": "Bananen-Mochi · Motiv 2",
+    "rarity": "ULTRA RARE",
+    "price": 2500,
+    "emoji": "🍌",
+    "description": "Fruchtig, sonnig und goldgelb.",
+    "image_file": "extra_banana_ultra_rare_v2.webp"
+  },
+  {
+    "id": "extra_peach_super_rare",
+    "name": "Pfirsich-Mochi",
+    "rarity": "SUPER RARE",
+    "price": 1500,
+    "emoji": "🍑",
+    "description": "Zartrosa, süß und blumig.",
+    "image_file": "extra_peach_super_rare.webp"
+  },
+  {
+    "id": "extra_blueberry_ultra_rare_v1",
+    "name": "Blaubeer-Mochi · Motiv 1",
+    "rarity": "ULTRA RARE",
+    "price": 2500,
+    "emoji": "🫐",
+    "description": "Beerig, blau und kuschelig.",
+    "image_file": "extra_blueberry_ultra_rare_v1.webp"
+  },
+  {
+    "id": "extra_cloud_uncommon",
+    "name": "Wolken-Mochi",
+    "rarity": "UNCOMMON",
+    "price": 450,
+    "emoji": "☁️",
+    "description": "Flauschige Wolkenoptik und ein ruhiger, verträumter Vibe.",
+    "image_file": "extra_cloud_uncommon.webp"
+  },
+  {
+    "id": "extra_peach_rare_v2",
+    "name": "Pfirsich-Mochi · Motiv 2",
+    "rarity": "RARE",
+    "price": 850,
+    "emoji": "🍑",
+    "description": "Zartrosa, süß und blumig.",
+    "image_file": "extra_peach_rare_v2.webp"
+  },
+  {
+    "id": "extra_blueberry_rare",
+    "name": "Blaubeer-Mochi",
+    "rarity": "RARE",
+    "price": 850,
+    "emoji": "🫐",
+    "description": "Beerig, blau und kuschelig.",
+    "image_file": "extra_blueberry_rare.webp"
+  },
+  {
+    "id": "extra_ube_ultra_rare",
+    "name": "Ube-Mochi",
+    "rarity": "ULTRA RARE",
+    "price": 2500,
+    "emoji": "🍠",
+    "description": "Cremig, violett und märchenhaft.",
+    "image_file": "extra_ube_ultra_rare.webp"
+  },
+  {
+    "id": "extra_peach_uncommon",
+    "name": "Pfirsich-Mochi",
+    "rarity": "UNCOMMON",
+    "price": 450,
+    "emoji": "🍑",
+    "description": "Zartrosa, süß und blumig.",
+    "image_file": "extra_peach_uncommon.webp"
+  },
+  {
+    "id": "extra_choco_common",
+    "name": "Schoko-Mochi",
+    "rarity": "COMMON",
+    "price": 250,
+    "emoji": "🍫",
+    "description": "Schokoladig, weich und gemütlich.",
+    "image_file": "extra_choco_common.webp"
+  },
+  {
+    "id": "extra_peach_ultra_rare",
+    "name": "Pfirsich-Mochi",
+    "rarity": "ULTRA RARE",
+    "price": 2500,
+    "emoji": "🍑",
+    "description": "Zartrosa, süß und blumig.",
+    "image_file": "extra_peach_ultra_rare.webp"
+  },
+  {
+    "id": "extra_banana_uncommon",
+    "name": "Bananen-Mochi",
+    "rarity": "UNCOMMON",
+    "price": 450,
+    "emoji": "🍌",
+    "description": "Fruchtig, sonnig und goldgelb.",
+    "image_file": "extra_banana_uncommon.webp"
+  },
+  {
+    "id": "extra_yuzu_rare",
+    "name": "Yuzu-Mochi",
+    "rarity": "RARE",
+    "price": 850,
+    "emoji": "🍋",
+    "description": "Frisch, zitronig und sonnig.",
+    "image_file": "extra_yuzu_rare.webp"
+  },
+  {
+    "id": "extra_rainbow_super_rare",
+    "name": "Regenbogen-Mochi",
+    "rarity": "SUPER RARE",
+    "price": 1500,
+    "emoji": "🌈",
+    "description": "Bunte Farben, Glitzer und Regenbogenmagie.",
+    "image_file": "extra_rainbow_super_rare.webp"
+  },
+  {
+    "id": "extra_rainbow_uncommon_v1",
+    "name": "Regenbogen-Mochi · Motiv 1",
+    "rarity": "UNCOMMON",
+    "price": 450,
+    "emoji": "🌈",
+    "description": "Bunte Farben, Glitzer und Regenbogenmagie.",
+    "image_file": "extra_rainbow_uncommon_v1.webp"
+  },
+  {
+    "id": "extra_choco_super_rare",
+    "name": "Schoko-Mochi",
+    "rarity": "SUPER RARE",
+    "price": 1500,
+    "emoji": "🍫",
+    "description": "Schokoladig, weich und gemütlich.",
+    "image_file": "extra_choco_super_rare.webp"
+  },
+  {
+    "id": "extra_banana_common",
+    "name": "Bananen-Mochi",
+    "rarity": "COMMON",
+    "price": 250,
+    "emoji": "🍌",
+    "description": "Fruchtig, sonnig und goldgelb.",
+    "image_file": "extra_banana_common.webp"
+  },
+  {
+    "id": "extra_pistachio_uncommon",
+    "name": "Pistazien-Mochi",
+    "rarity": "UNCOMMON",
+    "price": 450,
+    "emoji": "🥜",
+    "description": "Nussig, mild und cremig.",
+    "image_file": "extra_pistachio_uncommon.webp"
+  },
+  {
+    "id": "extra_blueberry_super_rare_v1",
+    "name": "Blaubeer-Mochi · Motiv 1",
+    "rarity": "SUPER RARE",
+    "price": 1500,
+    "emoji": "🫐",
+    "description": "Beerig, blau und kuschelig.",
+    "image_file": "extra_blueberry_super_rare_v1.webp"
+  },
+  {
+    "id": "extra_banana_rare",
+    "name": "Bananen-Mochi",
+    "rarity": "RARE",
+    "price": 850,
+    "emoji": "🍌",
+    "description": "Fruchtig, sonnig und goldgelb.",
+    "image_file": "extra_banana_rare.webp"
+  },
+  {
+    "id": "extra_rainbow_rare",
+    "name": "Regenbogen-Mochi",
+    "rarity": "RARE",
+    "price": 850,
+    "emoji": "🌈",
+    "description": "Bunte Farben, Glitzer und Regenbogenmagie.",
+    "image_file": "extra_rainbow_rare.webp"
+  },
+  {
+    "id": "extra_blueberry_ultra_rare_v2",
+    "name": "Blaubeer-Mochi · Motiv 2",
+    "rarity": "ULTRA RARE",
+    "price": 2500,
+    "emoji": "🫐",
+    "description": "Beerig, blau und kuschelig.",
+    "image_file": "extra_blueberry_ultra_rare_v2.webp"
+  },
+  {
+    "id": "extra_choco_rare",
+    "name": "Schoko-Mochi",
+    "rarity": "RARE",
+    "price": 850,
+    "emoji": "🍫",
+    "description": "Schokoladig, weich und gemütlich.",
+    "image_file": "extra_choco_rare.webp"
+  },
+  {
+    "id": "extra_stardust_ultra_rare",
+    "name": "Sternenstaub-Mochi",
+    "rarity": "ULTRA RARE",
+    "price": 2500,
+    "emoji": "⭐",
+    "description": "Ein kleines Stück Sternenhimmel mit funkelnder Magie.",
+    "image_file": "extra_stardust_ultra_rare.webp"
+  },
+  {
+    "id": "extra_cloud_super_rare",
+    "name": "Wolken-Mochi",
+    "rarity": "SUPER RARE",
+    "price": 1500,
+    "emoji": "☁️",
+    "description": "Flauschige Wolkenoptik und ein ruhiger, verträumter Vibe.",
+    "image_file": "extra_cloud_super_rare.webp"
+  },
+  {
+    "id": "extra_ube_super_rare",
+    "name": "Ube-Mochi",
+    "rarity": "SUPER RARE",
+    "price": 1500,
+    "emoji": "🍠",
+    "description": "Cremig, violett und märchenhaft.",
+    "image_file": "extra_ube_super_rare.webp"
+  },
+  {
+    "id": "extra_sakura_super_rare",
+    "name": "Sakura-Mochi",
+    "rarity": "SUPER RARE",
+    "price": 1500,
+    "emoji": "🌸",
+    "description": "Kirschblüten, zarte Farben und Frühlingsstimmung.",
+    "image_file": "extra_sakura_super_rare.webp"
+  },
+  {
+    "id": "extra_sakura_common",
+    "name": "Sakura-Mochi",
+    "rarity": "COMMON",
+    "price": 250,
+    "emoji": "🌸",
+    "description": "Kirschblüten, zarte Farben und Frühlingsstimmung.",
+    "image_file": "extra_sakura_common.webp"
+  },
+  {
+    "id": "extra_stardust_super_rare",
+    "name": "Sternenstaub-Mochi",
+    "rarity": "SUPER RARE",
+    "price": 1500,
+    "emoji": "⭐",
+    "description": "Ein kleines Stück Sternenhimmel mit funkelnder Magie.",
+    "image_file": "extra_stardust_super_rare.webp"
+  },
+  {
+    "id": "extra_rainbow_uncommon_v2",
+    "name": "Regenbogen-Mochi · Motiv 2",
+    "rarity": "UNCOMMON",
+    "price": 450,
+    "emoji": "🌈",
+    "description": "Bunte Farben, Glitzer und Regenbogenmagie.",
+    "image_file": "extra_rainbow_uncommon_v2.webp"
+  },
+  {
+    "id": "extra_yuzu_ultra_rare",
+    "name": "Yuzu-Mochi",
+    "rarity": "ULTRA RARE",
+    "price": 2500,
+    "emoji": "🍋",
+    "description": "Frisch, zitronig und sonnig.",
+    "image_file": "extra_yuzu_ultra_rare.webp"
+  },
+  {
+    "id": "extra_yuzu_uncommon",
+    "name": "Yuzu-Mochi",
+    "rarity": "UNCOMMON",
+    "price": 450,
+    "emoji": "🍋",
+    "description": "Frisch, zitronig und sonnig.",
+    "image_file": "extra_yuzu_uncommon.webp"
+  },
+  {
+    "id": "extra_blueberry_super_rare_v2",
+    "name": "Blaubeer-Mochi · Motiv 2",
+    "rarity": "SUPER RARE",
+    "price": 1500,
+    "emoji": "🫐",
+    "description": "Beerig, blau und kuschelig.",
+    "image_file": "extra_blueberry_super_rare_v2.webp"
+  },
+  {
+    "id": "extra_choco_ultra_rare",
+    "name": "Schoko-Mochi",
+    "rarity": "ULTRA RARE",
+    "price": 2500,
+    "emoji": "🍫",
+    "description": "Schokoladig, weich und gemütlich.",
+    "image_file": "extra_choco_ultra_rare.webp"
+  },
+  {
+    "id": "extra_stardust_common",
+    "name": "Sternenstaub-Mochi",
+    "rarity": "COMMON",
+    "price": 250,
+    "emoji": "⭐",
+    "description": "Ein kleines Stück Sternenhimmel mit funkelnder Magie.",
+    "image_file": "extra_stardust_common.webp"
+  },
+  {
+    "id": "extra_banana_ultra_rare_v3",
+    "name": "Bananen-Mochi · Motiv 3",
+    "rarity": "ULTRA RARE",
+    "price": 2500,
+    "emoji": "🍌",
+    "description": "Fruchtig, sonnig und goldgelb.",
+    "image_file": "extra_banana_ultra_rare_v3.webp"
+  }
+]

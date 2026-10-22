@@ -1,1 +1,13 @@
-PLACEHOLDER
+[
+  {
+    "id": "extra_stardust_uncommon",
+    "name": "Sternenstaub-Mochi",
+    "rarity": "UNCOMMON",
+    "price": 450,
+    "emoji": "⭐",
+    "description": "Ein Stück Sternenhimmel mit funkelnder Magie.",
+    "image_file": "extra_stardust_uncommon.webp",
+    "source_file": "0oLtt.jpg",
+    "size_bytes": 156862
+  }
+]

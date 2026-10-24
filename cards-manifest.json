@@ -73,8 +73,8 @@
     "emoji": "🌈",
     "description": "Bunte Farben und Regenbogenmagie.",
     "image_file": "extra_rainbow_ultra_rare.webp",
-    "source_file": "4cKqM.jpg",
-    "size_bytes": 161504
+    "source_file": "regenbogen_mochi_ultra_rare_wooloo_v1.png",
+    "size_bytes": 388966
   },
   {
     "id": "extra_banana_ultra_rare_v1",
@@ -282,8 +282,8 @@
     "emoji": "🌈",
     "description": "Bunte Farben und Regenbogenmagie.",
     "image_file": "extra_rainbow_super_rare.webp",
-    "source_file": "HrPcw.jpg",
-    "size_bytes": 161524
+    "source_file": "regenbogen_mochi_super_rare_wooloo_v1.png",
+    "size_bytes": 393854
   },
   {
     "id": "extra_rainbow_uncommon_v1",
@@ -293,8 +293,8 @@
     "emoji": "🌈",
     "description": "Bunte Farben und Regenbogenmagie.",
     "image_file": "extra_rainbow_uncommon_v1.webp",
-    "source_file": "HuzLn.jpg",
-    "size_bytes": 149632
+    "source_file": "regenbogen_mochi_uncommon_wooloo_v1.png",
+    "size_bytes": 389668
   },
   {
     "id": "extra_choco_super_rare",
@@ -359,8 +359,8 @@
     "emoji": "🌈",
     "description": "Bunte Farben und Regenbogenmagie.",
     "image_file": "extra_rainbow_rare.webp",
-    "source_file": "MZa5s.jpg",
-    "size_bytes": 159610
+    "source_file": "regenbogen_mochi_rare_wooloo_v1.png",
+    "size_bytes": 431932
   },
   {
     "id": "extra_blueberry_ultra_rare_v2",
@@ -458,8 +458,8 @@
     "emoji": "🌈",
     "description": "Bunte Farben und Regenbogenmagie.",
     "image_file": "extra_rainbow_uncommon_v2.webp",
-    "source_file": "W1dQs.jpg",
-    "size_bytes": 151946
+    "source_file": "regenbogen_mochi_uncommon_wooloo_v2.png",
+    "size_bytes": 395426
   },
   {
     "id": "extra_yuzu_ultra_rare",
@@ -546,8 +546,8 @@
     "emoji": "🌈",
     "description": "Ein kunterbuntes Mochi voller Farbzauber.",
     "image_file": "extra_rainbow_rare_v2.webp",
-    "source_file": "ccGzU.jpg",
-    "size_bytes": 971465
+    "source_file": "regenbogen_mochi_rare_wooloo_v2.png",
+    "size_bytes": 439452
   },
   {
     "id": "extra_stardust_rare",
@@ -667,8 +667,8 @@
     "emoji": "🌈",
     "description": "Ein kunterbuntes Mochi voller Farbzauber.",
     "image_file": "extra_rainbow_common_v1.webp",
-    "source_file": "knhDV.jpg",
-    "size_bytes": 827151
+    "source_file": "regenbogen_mochi_common_wooloo_v1.png",
+    "size_bytes": 121130
   },
   {
     "id": "extra_sakura_uncommon",
@@ -700,8 +700,8 @@
     "emoji": "🌈",
     "description": "Ein kunterbuntes Mochi voller Farbzauber.",
     "image_file": "extra_rainbow_ultra_rare_v2.webp",
-    "source_file": "lYolB.jpg",
-    "size_bytes": 930024
+    "source_file": "regenbogen_mochi_ultra_rare_wooloo_v2.png",
+    "size_bytes": 368956
   },
   {
     "id": "extra_banana_ultra_rare_v4",
@@ -799,8 +799,8 @@
     "emoji": "🌈",
     "description": "Ein kunterbuntes Mochi voller Farbzauber.",
     "image_file": "extra_rainbow_common_v2.webp",
-    "source_file": "wJ9Je.jpg",
-    "size_bytes": 836919
+    "source_file": "regenbogen_mochi_common_wooloo_v2.png",
+    "size_bytes": 121548
   },
   {
     "id": "extra_blueberry_common_v1",
@@ -832,8 +832,8 @@
     "emoji": "🌈",
     "description": "Ein kunterbuntes Mochi voller Farbzauber.",
     "image_file": "extra_rainbow_super_rare_v2.webp",
-    "source_file": "xygvy.jpg",
-    "size_bytes": 1015503
+    "source_file": "regenbogen_mochi_super_rare_wooloo_v2.png",
+    "size_bytes": 417420
   },
   {
     "id": "extra_blueberry_common_v2",
@@ -977,5 +977,192 @@
     "image_file": "EoGml.webp",
     "source_file": "EoGml.jpg",
     "size_bytes": 510478
+  },
+  {
+    "id": "extra_rainbow_common_v3",
+    "name": "Regenbogen-Mochi · Motiv 3",
+    "rarity": "COMMON",
+    "price": 250,
+    "emoji": "🌈",
+    "description": "Bunte Farben und Regenbogenmagie.",
+    "image_file": "extra_rainbow_common_v3.webp",
+    "source_file": "01_common_v1.webp",
+    "size_bytes": 245794
+  },
+  {
+    "id": "extra_rainbow_uncommon_v3",
+    "name": "Regenbogen-Mochi · Motiv 3",
+    "rarity": "UNCOMMON",
+    "price": 450,
+    "emoji": "🌈",
+    "description": "Bunte Farben und Regenbogenmagie.",
+    "image_file": "extra_rainbow_uncommon_v3.webp",
+    "source_file": "03_uncommon_v1.webp",
+    "size_bytes": 654428
+  },
+  {
+    "id": "extra_rainbow_rare_v3",
+    "name": "Regenbogen-Mochi · Motiv 3",
+    "rarity": "RARE",
+    "price": 850,
+    "emoji": "🌈",
+    "description": "Bunte Farben und Regenbogenmagie.",
+    "image_file": "extra_rainbow_rare_v3.webp",
+    "source_file": "regenbogen_mochi_rare_std_v1.png",
+    "size_bytes": 531526
+  },
+  {
+    "id": "extra_rainbow_super_rare_v3",
+    "name": "Regenbogen-Mochi · Motiv 3",
+    "rarity": "SUPER RARE",
+    "price": 1500,
+    "emoji": "🌈",
+    "description": "Bunte Farben und Regenbogenmagie.",
+    "image_file": "extra_rainbow_super_rare_v3.webp",
+    "source_file": "07_super_rare_v1.webp",
+    "size_bytes": 757712
+  },
+  {
+    "id": "extra_rainbow_ultra_rare_v3",
+    "name": "Regenbogen-Mochi · Motiv 3",
+    "rarity": "ULTRA RARE",
+    "price": 2500,
+    "emoji": "🌈",
+    "description": "Bunte Farben und Regenbogenmagie.",
+    "image_file": "extra_rainbow_ultra_rare_v3.webp",
+    "source_file": "09_ultra_rare_v1.webp",
+    "size_bytes": 663666
+  },
+  {
+    "id": "art_rainbow_v3",
+    "name": "Regenbogen-Mochi · Art Rare 3",
+    "rarity": "ART RARE",
+    "price": 10000,
+    "emoji": "🌈",
+    "description": "Bunte Farben und Regenbogenmagie.",
+    "image_file": "art_rainbow_v3.webp",
+    "source_file": "regenbogen_mochi_art_rare_grok_v1.png",
+    "size_bytes": 326922
+  },
+  {
+    "id": "extra_peach_common_v3",
+    "name": "Pfirsich-Mochi · Motiv 3",
+    "rarity": "COMMON",
+    "price": 250,
+    "emoji": "🍑",
+    "description": "Zartrosa, süß und blumig.",
+    "image_file": "extra_peach_common_v3.webp",
+    "source_file": "pfirsich_script_common_a.webp",
+    "size_bytes": 192370
+  },
+  {
+    "id": "extra_peach_uncommon_v3",
+    "name": "Pfirsich-Mochi · Motiv 3",
+    "rarity": "UNCOMMON",
+    "price": 450,
+    "emoji": "🍑",
+    "description": "Zartrosa, süß und blumig.",
+    "image_file": "extra_peach_uncommon_v3.webp",
+    "source_file": "pfirsich_script_uncommon_a.webp",
+    "size_bytes": 556668
+  },
+  {
+    "id": "extra_peach_rare_v3",
+    "name": "Pfirsich-Mochi · Motiv 3",
+    "rarity": "RARE",
+    "price": 850,
+    "emoji": "🍑",
+    "description": "Zartrosa, süß und blumig.",
+    "image_file": "extra_peach_rare_v3.webp",
+    "source_file": "pfirsich_mochi_rare_v1.png",
+    "size_bytes": 558350
+  },
+  {
+    "id": "extra_peach_super_rare_v3",
+    "name": "Pfirsich-Mochi · Motiv 3",
+    "rarity": "SUPER RARE",
+    "price": 1500,
+    "emoji": "🍑",
+    "description": "Zartrosa, süß und blumig.",
+    "image_file": "extra_peach_super_rare_v3.webp",
+    "source_file": "pfirsich_script_super_rare_a.webp",
+    "size_bytes": 482650
+  },
+  {
+    "id": "extra_peach_ultra_rare_v3",
+    "name": "Pfirsich-Mochi · Motiv 3",
+    "rarity": "ULTRA RARE",
+    "price": 2500,
+    "emoji": "🍑",
+    "description": "Zartrosa, süß und blumig.",
+    "image_file": "extra_peach_ultra_rare_v3.webp",
+    "source_file": "pfirsich_mochi_ultra_rare_grok_v1.png",
+    "size_bytes": 293598
+  },
+  {
+    "id": "art_peach_v1",
+    "name": "Pfirsich-Mochi · Art Rare 1",
+    "rarity": "ART RARE",
+    "price": 10000,
+    "emoji": "🍑",
+    "description": "Zartrosa, süß und blumig.",
+    "image_file": "art_peach_v1.webp",
+    "source_file": "pfirsich_mochi_art_rare_grok_v1.png",
+    "size_bytes": 365518
+  },
+  {
+    "id": "extra_mira_common",
+    "name": "Mira Fluff",
+    "rarity": "COMMON",
+    "price": 250,
+    "emoji": "🐑",
+    "description": "Flauschig, kuschelig und verträumt.",
+    "image_file": "extra_mira_common.webp",
+    "source_file": "Mira_Fluff_common_20261024_173848_seed638965852.webp",
+    "size_bytes": 425638
+  },
+  {
+    "id": "extra_mira_uncommon",
+    "name": "Mira Fluff",
+    "rarity": "UNCOMMON",
+    "price": 450,
+    "emoji": "🐑",
+    "description": "Flauschig, kuschelig und verträumt.",
+    "image_file": "extra_mira_uncommon.webp",
+    "source_file": "Mira_Fluff_uncommon_20261024_174014_seed1853888606.webp",
+    "size_bytes": 554168
+  },
+  {
+    "id": "extra_mira_rare",
+    "name": "Mira Fluff",
+    "rarity": "RARE",
+    "price": 850,
+    "emoji": "🐑",
+    "description": "Flauschig, kuschelig und verträumt.",
+    "image_file": "extra_mira_rare.webp",
+    "source_file": "Mira_Fluff_rare_20261024_174137_seed1502009980.webp",
+    "size_bytes": 564686
+  },
+  {
+    "id": "extra_mira_super_rare",
+    "name": "Mira Fluff",
+    "rarity": "SUPER RARE",
+    "price": 1500,
+    "emoji": "🐑",
+    "description": "Flauschig, kuschelig und verträumt.",
+    "image_file": "extra_mira_super_rare.webp",
+    "source_file": "Mira_Fluff_super_rare_20261024_174258_seed571981337.webp",
+    "size_bytes": 411144
+  },
+  {
+    "id": "extra_mira_ultra_rare",
+    "name": "Mira Fluff",
+    "rarity": "ULTRA RARE",
+    "price": 2500,
+    "emoji": "🐑",
+    "description": "Flauschig, kuschelig und verträumt.",
+    "image_file": "extra_mira_ultra_rare.webp",
+    "source_file": "Mira_Fluff_ultra_rare_20261024_174415_seed1904709936.webp",
+    "size_bytes": 473614
   }
 ]

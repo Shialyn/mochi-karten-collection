@@ -172,8 +172,8 @@
     "emoji": "🫐",
     "description": "Beerig, blau und kuschelig.",
     "image_file": "extra_blueberry_ultra_rare_v1.webp",
-    "source_file": "82cV5.jpg",
-    "size_bytes": 136154
+    "source_file": "einiges_Blaubeer-Mochi_ultra_rare_20261025_083937_seed241599822.webp",
+    "size_bytes": 556124
   },
   {
     "id": "extra_cloud_uncommon",
@@ -1616,5 +1616,225 @@
     "image_file": "extra_yuzu_uncommon_v2.webp",
     "source_file": "Yuzu-Mochi_uncommon_20261025_090242_seed1263374580.webp",
     "size_bytes": 630722
+  },
+  {
+    "id": "art_einiges_karte_v1",
+    "name": "Pistazien Mochi",
+    "rarity": "ART RARE",
+    "price": 10000,
+    "emoji": "🐑",
+    "description": "Harte Nuss",
+    "image_file": "art_einiges_karte_v1.webp",
+    "source_file": "einiges_karte_art_rare_20261025_083131_seed1729495647.webp",
+    "size_bytes": 472134
+  },
+  {
+    "id": "wix_einiges_karte_v1",
+    "name": "Pistazien Mochi",
+    "rarity": "WIX RARE",
+    "price": 10000,
+    "emoji": "🐑",
+    "description": "Harte Nuss",
+    "image_file": "wix_einiges_karte_v1.webp",
+    "source_file": "einiges_karte_wix_rare_20261025_083306_seed791865633.webp",
+    "size_bytes": 642588
+  },
+  {
+    "id": "art_einiges_karte_v2",
+    "name": "Blaubeer Mochi",
+    "rarity": "ART RARE",
+    "price": 10000,
+    "emoji": "🐑",
+    "description": "Uh Blau",
+    "image_file": "art_einiges_karte_v2.webp",
+    "source_file": "einiges_karte_art_rare_20261025_084054_seed1140604399.webp",
+    "size_bytes": 469378
+  },
+  {
+    "id": "wix_einiges_karte_v2",
+    "name": "Blaubeer Mochi",
+    "rarity": "WIX RARE",
+    "price": 10000,
+    "emoji": "🐑",
+    "description": "Uh Blau",
+    "image_file": "wix_einiges_karte_v2.webp",
+    "source_file": "einiges_karte_wix_rare_20261025_084211_seed1831366404.webp",
+    "size_bytes": 708364
+  },
+  {
+    "id": "art_einiges_karte_v3",
+    "name": "Wolken Mochi",
+    "rarity": "ART RARE",
+    "price": 10000,
+    "emoji": "🐑",
+    "description": "Wolkig",
+    "image_file": "art_einiges_karte_v3.webp",
+    "source_file": "einiges_karte_art_rare_20261025_084946_seed1157361265.webp",
+    "size_bytes": 444680
+  },
+  {
+    "id": "wix_einiges_karte_v3",
+    "name": "Wolken Mochi",
+    "rarity": "WIX RARE",
+    "price": 10000,
+    "emoji": "🐑",
+    "description": "Wolkig",
+    "image_file": "wix_einiges_karte_v3.webp",
+    "source_file": "einiges_karte_wix_rare_20261025_085057_seed1769990977.webp",
+    "size_bytes": 609372
+  },
+  {
+    "id": "art_einiges_karte_v4",
+    "name": "Pfirsisch Mochi",
+    "rarity": "ART RARE",
+    "price": 10000,
+    "emoji": "🐑",
+    "description": "Lecker",
+    "image_file": "art_einiges_karte_v4.webp",
+    "source_file": "einiges_karte_art_rare_20261025_085830_seed1247180503.webp",
+    "size_bytes": 393584
+  },
+  {
+    "id": "wix_einiges_karte_v4",
+    "name": "Pfirsisch Mochi",
+    "rarity": "WIX RARE",
+    "price": 10000,
+    "emoji": "🐑",
+    "description": "Lecker",
+    "image_file": "wix_einiges_karte_v4.webp",
+    "source_file": "einiges_karte_wix_rare_20261025_085950_seed164399596.webp",
+    "size_bytes": 687132
+  },
+  {
+    "id": "art_einiges_karte_v5",
+    "name": "Yuzu Mochi",
+    "rarity": "ART RARE",
+    "price": 10000,
+    "emoji": "🐑",
+    "description": "Spritzzig",
+    "image_file": "art_einiges_karte_v5.webp",
+    "source_file": "einiges_karte_art_rare_20261025_090742_seed1781875275.webp",
+    "size_bytes": 413550
+  },
+  {
+    "id": "wix_einiges_karte_v5",
+    "name": "Yuzu Mochi",
+    "rarity": "WIX RARE",
+    "price": 10000,
+    "emoji": "🐑",
+    "description": "Spritzzig",
+    "image_file": "wix_einiges_karte_v5.webp",
+    "source_file": "einiges_karte_wix_rare_20261025_090902_seed191698913.webp",
+    "size_bytes": 660276
+  },
+  {
+    "id": "art_einiges_karte_v6",
+    "name": "Ube Mochi",
+    "rarity": "ART RARE",
+    "price": 10000,
+    "emoji": "🐑",
+    "description": "Ubig",
+    "image_file": "art_einiges_karte_v6.webp",
+    "source_file": "einiges_karte_art_rare_20261025_091639_seed328376136.webp",
+    "size_bytes": 488470
+  },
+  {
+    "id": "wix_einiges_karte_v6",
+    "name": "Ube Mochi",
+    "rarity": "WIX RARE",
+    "price": 10000,
+    "emoji": "🐑",
+    "description": "Ubig",
+    "image_file": "wix_einiges_karte_v6.webp",
+    "source_file": "einiges_karte_wix_rare_20261025_091808_seed1922340855.webp",
+    "size_bytes": 646236
+  },
+  {
+    "id": "art_einiges_karte_v7",
+    "name": "Stern Mochi",
+    "rarity": "ART RARE",
+    "price": 10000,
+    "emoji": "🐑",
+    "description": "Hoch hinaus",
+    "image_file": "art_einiges_karte_v7.webp",
+    "source_file": "einiges_karte_art_rare_20261025_092539_seed24208662.webp",
+    "size_bytes": 527904
+  },
+  {
+    "id": "wix_einiges_karte_v7",
+    "name": "Stern Mochi",
+    "rarity": "WIX RARE",
+    "price": 10000,
+    "emoji": "🐑",
+    "description": "Hoch hinaus",
+    "image_file": "wix_einiges_karte_v7.webp",
+    "source_file": "einiges_karte_wix_rare_20261025_092650_seed654811113.webp",
+    "size_bytes": 743740
+  },
+  {
+    "id": "art_einiges_karte_v8",
+    "name": "Honig Mochi",
+    "rarity": "ART RARE",
+    "price": 10000,
+    "emoji": "🐑",
+    "description": "Klebrig",
+    "image_file": "art_einiges_karte_v8.webp",
+    "source_file": "einiges_karte_art_rare_20261025_092807_seed42549112.webp",
+    "size_bytes": 532498
+  },
+  {
+    "id": "art_einiges_karte_v9",
+    "name": "Tinten Mochi",
+    "rarity": "ART RARE",
+    "price": 10000,
+    "emoji": "🐑",
+    "description": "Titen",
+    "image_file": "art_einiges_karte_v9.webp",
+    "source_file": "einiges_karte_art_rare_20261025_092924_seed1074304742.webp",
+    "size_bytes": 421620
+  },
+  {
+    "id": "art_wollwolke_karte_v1",
+    "name": "WollWolke karte",
+    "rarity": "ART RARE",
+    "price": 10000,
+    "emoji": "🐑",
+    "description": "Wollig",
+    "image_file": "art_wollwolke_karte_v1.webp",
+    "source_file": "WollWolke_karte_art_rare_20261025_095933_seed1544001437.webp",
+    "size_bytes": 402414
+  },
+  {
+    "id": "wix_wollwolke_karte_v1",
+    "name": "WollWolke karte",
+    "rarity": "WIX RARE",
+    "price": 10000,
+    "emoji": "🐑",
+    "description": "Wollig",
+    "image_file": "wix_wollwolke_karte_v1.webp",
+    "source_file": "WollWolke_karte_wix_rare_20261025_100047_seed1519122203.webp",
+    "size_bytes": 591916
+  },
+  {
+    "id": "extra_einiges_sternenstaub_mochi_ultra_rare_v1",
+    "name": "Sternenstaub-Mochi",
+    "rarity": "ULTRA RARE",
+    "price": 2500,
+    "emoji": "🐑",
+    "description": "Rakete Steht",
+    "image_file": "extra_einiges_sternenstaub_mochi_ultra_rare_v1.webp",
+    "source_file": "einiges_Sternenstaub-Mochi_ultra_rare_20261025_092428_seed1126066160.webp",
+    "size_bytes": 654726
+  },
+  {
+    "id": "extra_wollwolke_woll_wolke_ultra_rare_v1",
+    "name": "Woll-Wolke",
+    "rarity": "ULTRA RARE",
+    "price": 2500,
+    "emoji": "🐑",
+    "description": "Slide in",
+    "image_file": "extra_wollwolke_woll_wolke_ultra_rare_v1.webp",
+    "source_file": "WollWolke_Woll-Wolke_ultra_rare_20261025_095819_seed103565998.webp",
+    "size_bytes": 508624
   }
 ]
